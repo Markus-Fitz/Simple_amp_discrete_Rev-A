@@ -9492,7 +9492,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 133.5 110 0)
+		(at 134 110 0)
 		(layer "F.SilkS")
 		(uuid "ef37bee7-d486-45d7-ab3d-7837aa1f81b2")
 		(effects
@@ -10049,7 +10049,7 @@
 		)
 		(polygon
 			(pts
-				(xy 94.5 92) (xy 205.5 92) (xy 205.5 113) (xy 94.5 112.5)
+				(xy 94.5 92) (xy 205.5 92) (xy 205.5 113) (xy 94.5 113)
 			)
 		)
 		(filled_polygon
